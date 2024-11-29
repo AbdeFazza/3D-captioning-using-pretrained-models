@@ -4,10 +4,10 @@
 - Inspired by the Cap3D methodology, the pipeline emphasizes scalability, computational efficiency, and adaptability to future advancements.
 
 # Objectives
-- Automated Caption Generation: Generate captions for 3D objects using multi-view rendered images.
-- Efficiency: Employ computationally lightweight models for scalability without extensive fine-tuning.
-- Caption Fusion: Merge captions from multiple views into a single coherent description.
-- Adaptability: Support future upgrades to improved pre-trained models and rendering libraries.
+- *Automated Caption Generation*: Generate captions for 3D objects using multi-view rendered images.
+- *Efficiency*: Employ computationally lightweight models for scalability without extensive fine-tuning.
+- *Caption Fusion*: Merge captions from multiple views into a single coherent description.
+- *Adaptability*: Support future upgrades to improved pre-trained models and rendering libraries.
 
 # Pipeline
 - Data Preparation:
@@ -21,12 +21,12 @@
   - Clean and format captions for readability and downstream integration.
 
 # Tools and Frameworks
-- Python: Core programming language for the pipeline.
-- Blender: Rendering tool for generating 2D views of 3D objects.
-- JAX: Library for high-performance computations in captioning and fusion tasks.
-- Objaverse Dataset: Source of 3D models for testing the pipeline.
-- Paligemma and Gemma 2 Models: Pre-trained models for captioning and fusion.
-- Jupyter Notebook: Development environment for pipeline implementation.
+- *Python*: Core programming language for the pipeline.
+- *Blender*: Rendering tool for generating 2D views of 3D objects.
+- *JAX*: Library for high-performance computations in captioning and fusion tasks.
+- *Objaverse Dataset*: Source of 3D models for testing the pipeline.
+- *Paligemma and Gemma 2 Models*: Pre-trained models for captioning and fusion.
+- *Jupyter Notebook*: Development environment for pipeline implementation.
 
 # Usage
 1. Download 3D Objects:
