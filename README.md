@@ -34,7 +34,7 @@
    - Then add the objects paths to the _object_path_pkl_ (.pkl) file.
    - Use the _edit_pkl_file_ file to edit .pkl files.
 2. Rendering
-  - Run the following script to render images from 3D models: <br>
-  path\to\blender -b -P .\scripts\blender_render_script.py -- --object_path_pkl .\scripts\assets\example_object_path_multiple_examples.pkl
+   - Run the following script to render images from 3D models: <br>
+   path\to\blender -b -P .\scripts\blender_render_script.py -- --object_path_pkl .\scripts\assets\example_object_path_multiple_examples.pkl
 2. Caption Generation and Fusion
-  - Generate and fuse captions for the rendered images by running the _image-captioning-captions-fusion-v2_ file.
+   - Generate and fuse captions for the rendered images by running the _image-captioning-captions-fusion-v2_ file.
